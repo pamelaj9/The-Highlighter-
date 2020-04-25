@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OPINION</string>
+
+    <string name="lorem_ipsum">I wanted to make swimwear in which Muslim women did not have to fear wardrobe malfunctions, said the 48-year-old.Graceful Swimmers is one of nine local fashion brands chosen to participate in the second edition of The Bridge Fashion Incubator (TBFI), a programme started last year by the Textile And Fashion Federation and conducted at The Cocoon Space in Design Orchard.The incubator programme is for budding brands to refine their business model and develop their pieces to market-readiness with the mentorship of industry experts.\n\n Eleven brands, including bespoke menswear label Collaro and maternity-wear brand Spring Maternity, completed the schemes first run. The programmes director Jo Soh - who was behind popular clothing label Hansel - said that with the range of businesses in the second cohort.\n\nThose participating can look forward to potential collaborations with fellow participants and even their predecessors.
+    </string>
+    <string name="insta_story">Insta - Story</string>
+    <string name="facebook_post">Facebook Post</string>
+    <string name="telegram">Telegram</string>
+    <string name="save_to_camera_roll">Save to camera roll</string>
+</resources>
