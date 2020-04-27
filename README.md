@@ -11,7 +11,7 @@ With The Highlighter, young people can catch up with the news, and news outlets 
 **Instructions**
 
 **Testing the The Highlighter app:** 
-Step 1. Download the .APK file linked here (insert download hyperlink for .apk file under ‘here’) onto your mobile phone or Android emulator 
+Step 1. Download the .APK file linked here https://www.dropbox.com/s/50clxjwkxwnxyi2/Highlighter%20App.apk?dl=0 onto your mobile phone or Android emulator 
 Step 2. Run the .APK file. The Highlighter app should run automatically. 
 Note: Currently, this app works with any Android Phone with Android Version up to version 9.
 
