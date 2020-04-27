@@ -6,6 +6,9 @@ The Highlighter is an in-app tool that revolutionizes news sharing for the mille
 A younger generation of readers are disengaged when it comes to news, turning to other entertainment and social media channels to fill their time. To solve this, The Highlighter does two things: 1) brings the news to right where they are, and 2) makes reading and sharing news fun. It allows users to highlight, creatively decorate and share notable quotes from news articles on their Instagram Stories. They can choose layouts, pictures, background colours and more to express their feelings and thoughts about the news. As the users share more news that is relevant to their lives, it creates a cycle of sharing amongst their friends. 
 With The Highlighter, young people can catch up with the news, and news outlets can catch up with technology to capture their youth readers.
 
+![Image](https://user-images.githubusercontent.com/58365404/80386698-534c9f80-88da-11ea-8df2-cec7bf4d80ae.jpeg)
+
+
 Instructions
 
 Testing the The Highlighter app: 
