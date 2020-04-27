@@ -1,5 +1,4 @@
 # Rama2
-Highlighter App
 **Brief Description:**
 The Highlighter is an in-app tool that revolutionizes news sharing for the millennial generation. The tool serves as the bridge between an article and a social media platform to optimize and customise sharing. 
 
@@ -14,8 +13,7 @@ With The Highlighter, young people can catch up with the news, and news outlets 
 **Testing the The Highlighter app:** 
 Step 1. Download the .APK file linked here (insert download hyperlink for .apk file under ‘here’) onto your mobile phone or Android emulator 
 Step 2. Run the .APK file. The Highlighter app should run automatically. 
-Note: For best results, we recommend the .APK file to be hosted on a Pixel 2XL mobile phone (dimensions: 157.9 x 76.7 x 7.9 mm) for all Android versions up to 9 (or a phone with equivalent dimensions as the Pixel 2XL). 
-
+Note: Currently, this app works with any Android Phone with Android Version up to version 9.
 
 **Customising The Highlighter for your Newsroom:**
 The Highlighter is currently customised for the news publication: The Straits Times. To customise The Highlighter to your Newsroom, we recommend changing The Highlighter’s base color (Navy blue), selection of font type, font colors and background colors, to suit the brand guide of your Newsroom. You are also able to alter or add any other features through the use of Android Studio. 
